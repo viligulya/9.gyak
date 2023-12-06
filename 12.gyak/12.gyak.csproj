@@ -7,7 +7,7 @@
     <ProjectGuid>{FAD5C148-0FD6-4146-843C-8B0A30C9B9D4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_12.gyak</RootNamespace>
-    <AssemblyName>_12.gyak</AssemblyName>
+    <AssemblyName>12.gyak</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
